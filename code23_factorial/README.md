@@ -1,0 +1,2 @@
+- This code calculate the sum of factorials.
+- 本代码是计算阶乘之和。
