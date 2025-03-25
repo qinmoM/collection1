@@ -1,0 +1,2 @@
+- This code verifies whether the entered password is correct.
+- 本代码为验证输入的密码是否正确。
