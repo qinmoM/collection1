@@ -1,0 +1,2 @@
+- This code include the usage of 'memset' and 'strcpy' .  
+- 本代码包含了关于'memset'和'strcpy'的相关使用。
