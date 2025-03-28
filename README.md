@@ -12,6 +12,7 @@
   Prank.  
   恶搞代码。
 - **4.code26:**  
-  memset and strcpy.  
+  memset and strcpy.
+  'memset'和'strcpy'。
 > The development environment for these codes is Visual Studio Code.  
 > 这些代码的开发环境为VSCode。
